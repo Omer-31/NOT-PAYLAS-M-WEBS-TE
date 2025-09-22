@@ -1,0 +1,24 @@
+{
+  "computedAt": "2025-09-21T22:09:01.667Z",
+  "items": [
+    {
+      "id": 4,
+      "score": 0.8411343038194445,
+      "title": "Analiz",
+      "description": "Test Aşaması Deneme-1",
+      "course": "Deneme",
+      "type": "image",
+      "filePath": "note-1758218021711-198277800.jpg",
+      "fileMime": "image/jpeg",
+      "avgRating": 0,
+      "downloadsCount": 0,
+      "viewsCount": 0,
+      "createdAt": "2025-09-18T17:53:41.743Z",
+      "uploader": {
+        "id": 1,
+        "firstName": "ömer",
+        "lastName": "orhan"
+      }
+    }
+  ]
+}
